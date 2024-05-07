@@ -2,7 +2,7 @@
   "name": "DSG - EL Puma",
   "short_name": "DSG - EL Puma",
   "description": "Scouts portfolio site!",
-  "start_url": "/pel2024/?utm_source=homescreen",
+  "start_url": "/pel2024/",
   "theme_color": "#000000",
   "background_color": "#616161",
   "orientation": "portrait",
