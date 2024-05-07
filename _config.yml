@@ -11,9 +11,9 @@ menu:
  - title: Home
  - url: /
  - title: Campfires
- - url: dsgsite.github.io/pel2024/campfires.html
+ - url: https://dsgsite.github.io/pel2024/campfires.html
  - title: Tenderfoot
- - url: dsgsite.github.io/pel2024/tenderfoot.html
+ - url: https://dsgsite.github.io/pel2024/tenderfoot.html
 hydejack:
   dark_mode:
     dynamic: false
