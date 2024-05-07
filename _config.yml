@@ -10,6 +10,10 @@ baseurl: /pel2024
 menu:
  - title: Home
  - url: /
+ - title: Campfires
+ - url: /campfires.html
+ - title: Tenderfoot
+ - url: /tenderfoot.html
 hydejack:
   dark_mode:
     dynamic: false
