@@ -1,4 +1,6 @@
 title: Ethan L - Puma
+accent_image: /PEL2024Banner.jpeg
+accent_color: rgb(79,177,186)
 remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-include-cache
