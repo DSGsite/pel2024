@@ -1,3 +1,10 @@
+---
+
+layout: default
+title: Campfire 2024
+
+---
+
 # Campfire 2024
 
 It was fun, totally worth going :)
