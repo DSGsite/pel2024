@@ -1,5 +1,6 @@
 # Tenderfoot
 
+We learnt how to do Scout stuff
 
 ---
 
