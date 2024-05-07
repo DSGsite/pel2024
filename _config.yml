@@ -10,7 +10,7 @@ menu:
  - url: /
 hydejack:
   dark_mode:
-    dynamic: true
+    dynamic: false
     sunrise: 6
     sunset:  18
     icon:    true
