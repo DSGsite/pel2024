@@ -9,11 +9,11 @@ plugins:
 baseurl: /pel2024
 menu:
  - title: Home
- - url: /
+   url: /
  - title: Campfires
- - url: https://dsgsite.github.io/pel2024/campfires.html
+   url: /campfires.html
  - title: Tenderfoot
- - url: https://dsgsite.github.io/pel2024/tenderfoot.html
+   url: /tenderfoot.html
 hydejack:
   dark_mode:
     dynamic: false
