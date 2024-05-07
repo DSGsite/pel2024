@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Campfire 2024
+title: Campfires
 
 ---
 
