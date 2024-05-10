@@ -14,6 +14,8 @@ menu:
    url: /campfires.html
  - title: Tenderfoot
    url: /tenderfoot.html
+ - title: Badge Clearing
+   url: /badge-clearing
 hydejack:
   dark_mode:
     dynamic: false
