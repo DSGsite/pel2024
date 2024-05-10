@@ -21,3 +21,10 @@ hydejack:
     sunset:  18
     icon:    true
     always:  false
+collections:
+  featured_categories:
+    permalink:         /:name/
+    output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
