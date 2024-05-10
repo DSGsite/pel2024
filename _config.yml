@@ -15,7 +15,7 @@ menu:
  - title: Tenderfoot
    url: /tenderfoot.html
  - title: Badge Clearing
-   url: /badge-clearing
+   url: /badge-progress
 hydejack:
   dark_mode:
     dynamic: false
